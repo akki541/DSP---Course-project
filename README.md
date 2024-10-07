@@ -17,10 +17,10 @@ leverages MATLAB for signal processing, analysis, and visualization.
 
 
 ## Project Structure
-src/: Contains MATLAB code for signal processing and seizure detection.
-data/: Includes EEG signal datasets used for analysis.
-results/: Stores the output plots and detection results for different EEG signals.
-docs/: Documentation and reports on the project, including analysis and findings.
+- src/: Contains MATLAB code for signal processing and seizure detection.
+- data/: Includes EEG signal datasets used for analysis.
+- results/: Stores the output plots and detection results for different EEG signals.
+- docs/: Documentation and reports on the project, including analysis and findings.
 
 
 ## Installation steps
